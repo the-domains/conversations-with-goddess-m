@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[elevate your life and find your natural ryhthm]]></title>
         <description><![CDATA[elevate your life and find your natural ryhthm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/conversations-with-goddess-m/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 14:45:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 14:46:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conversations-with-goddess-m/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6c2ab5a-b441-4c58-9de7-f872a7ccc088.jpg">]]></description>
+            <link>https://thegrid.ai/conversations-with-goddess-m/670a80dd-dfc6-411d-a6db-b10467fb8892/index.html</link>
+            <guid isPermaLink="false">670a80dd-dfc6-411d-a6db-b10467fb8892</guid>
+            <pubDate>Thu, 02 Jun 2016 14:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf18674-c13f-423f-aced-a5e559e66727.png">]]></description>
-            <link>undefined2869dd47-1f13-4515-9e4b-af7911b148fa/index.html</link>
+            <link>https://thegrid.ai/conversations-with-goddess-m/2869dd47-1f13-4515-9e4b-af7911b148fa/index.html</link>
             <guid isPermaLink="false">2869dd47-1f13-4515-9e4b-af7911b148fa</guid>
             <pubDate>Thu, 02 Jun 2016 14:44:47 GMT</pubDate>
         </item>
