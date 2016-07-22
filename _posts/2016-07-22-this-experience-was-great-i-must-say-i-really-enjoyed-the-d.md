@@ -3,20 +3,17 @@ description: >-
   This experience was great, I must say I really enjoyed the different
   activities. I have received the empowerment that I came into this seeking for.
   Everything made lots of sense. I am very grateful.
-dateModified: '2016-07-22T17:04:44.786Z'
-datePublished: '2016-07-22T17:04:49.806Z'
+dateModified: '2016-07-22T17:05:44.145Z'
+datePublished: '2016-07-22T17:05:44.611Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eceb7fbb-beab-490b-867a-f9bc6892d8e1.jpg
-starred: false
 sourcePath: >-
   _posts/2016-07-22-this-experience-was-great-i-must-say-i-really-enjoyed-the-d.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: this-experience-was-great-i-must-say-i-really-enjoyed-the-d/index.html
 _type: MediaObject
 
 ---
