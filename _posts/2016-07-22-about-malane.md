@@ -1,21 +1,25 @@
 ---
+datePublished: '2016-07-22T16:12:56.398Z'
+sourcePath: _posts/2016-07-22-about-malane.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4a4fdee-14cf-4c73-9405-a08e2fc6def0.jpg
+author: []
+via: {}
+dateModified: '2016-07-22T16:12:55.505Z'
+title: About Malane
+publisher: {}
 description: >-
   Malane Shani, International Life/Relationship Coach, Motivational Speaker CEO
   & Founder of Malane Shani Global Empowerment
-dateModified: '2016-07-22T16:08:26.785Z'
-datePublished: '2016-07-22T16:11:19.251Z'
-title: About Malane
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-07-22-about-malane.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4a4fdee-14cf-4c73-9405-a08e2fc6def0.jpg)
+
 # About Malane
 
 **Malane Shani, International Life/Relationship Coach, Motivational Speaker  
@@ -32,3 +36,10 @@ Malane has served as the CEO for Malane Shani Global for over 20 years which is 
 Malane's current partnerships include High Frequency Radio Network where she has on her radio show " Conversations with Goddess M every Sunday night at 7pm, the Living Foods Institute where she conducts monthly workshops on emotional healing and well being and provides private and group life coaching sessions and the Douglas County homeless shelter where she developed an empowerment program that supports women in transition. She also facilitates classes every week and conducts private life coaching at the shelter.
 
 Prior to Malane's life coaching efforts she was employed at a government agency where she received high recognition as an EEO counselor for her ability to resolve cases quickly and peacefully. She also attained a key role at a community based organization where she managed a thriving program that supported youth at risk where she was recognized for her ability to strengthen relationships with the youth, their parents and the surrounding community. Today Malane offers a wide range of programs and services from group and private coaching, to workshops, seminars and keynote speeches.
+
+_**Credentials**_  
+_Certified Professional Coach (CPC) World Coach Institute  
+Certified Relationship Coach (CRC) World Coach Institute  
+Certified Bereavement Coach (CBC) World Coach Institute  
+Certified Spiritual Life Coach (CSLC) Coaching from Spirit Institute  
+Ordained Interfaith Minister_
