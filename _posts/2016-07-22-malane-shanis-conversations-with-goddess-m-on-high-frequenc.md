@@ -1,23 +1,22 @@
 ---
 description: >-
-  Join Malane Shani for her radio show every Sunday @ 7pm est. Conversations
-  with Goddess M with Malane Shani. Listen at the link below or call in at the
-  number below: Call in # 424-222-5250. Press 1 to comment.
-dateModified: '2016-07-22T16:55:08.065Z'
-datePublished: '2016-07-22T16:57:02.653Z'
+  Join Malane Shani for her radio show every Sunday @ 7pm est.Conversations with
+  Goddess M with Malane Shani. Listen at the link below or call in at the number
+  below: Call in # 424-222-5250. Press 1 to comment.
+dateModified: '2016-07-22T16:57:25.620Z'
+datePublished: '2016-07-22T16:57:26.170Z'
 title: >-
-  Malane Shani's Conversations with Goddess M on High Frequency Radio Every
-  Sunday at 7pm
+  Malane Shani'sConversations with Goddess Mon High Frequency RadioEvery Sunday
+  at 7pm
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-22-malane-shanis-conversations-with-goddess-m-on-high-frequenc.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: malane-shanisconversations-with-goddess-mon-high-frequency/index.html
+_type: Blurb
 
 ---
 # _**Malane Shani's  
