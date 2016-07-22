@@ -18,10 +18,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e82317-316e-4fe0-90ca-f616695c747e.jpg
 name: Malane Shani
 navigation:
-  - id: 728d8c5f-8652-4f2c-87d1-a85cb62891b1
-    url: 2016-06-02-testimonials.html
-    name: Testimonials
-    type: content
   - id: f156a3af-d63f-43a5-8399-a9dc21721421
     url: 2016-07-22-about-malane.html
     name: About Malane
