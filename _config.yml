@@ -11,6 +11,11 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.9409808765631169
+author:
+  name: Malane Shani
+  email: malaneshani@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e82317-316e-4fe0-90ca-f616695c747e.jpg
 name: Malane Shani
 navigation:
   - id: 728d8c5f-8652-4f2c-87d1-a85cb62891b1
@@ -21,4 +26,4 @@ navigation:
     url: 2016-07-22-about-malane.html
     name: About Malane
     type: content
-title: elevate your life and find your natural ryhthm
+title: ''
