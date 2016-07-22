@@ -1,16 +1,16 @@
-typography_spectrum: 0.9748101658187807
+typography_spectrum: 0.4078858974389732
 color:
-  brandStrength: 0.04240634269081056
-  lightness: 0.8154669958166778
-  saturation: 0.7591657121665776
-  rhythmicContrast: 0.7939179665409029
+  brandStrength: 0.39614966977387667
+  lightness: 0.6729456814937294
+  saturation: 0.27335465513169765
+  rhythmicContrast: 0.6125719624105841
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.9409808765631169
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+layout_spectrum: 0.985934681026265
 author:
   name: Malane Shani
   email: malaneshani@gmail.com
