@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-07-22T16:12:56.398Z'
+datePublished: '2016-07-22T16:17:08.382Z'
 sourcePath: _posts/2016-07-22-about-malane.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4a4fdee-14cf-4c73-9405-a08e2fc6def0.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T16:12:55.505Z'
+dateModified: '2016-07-22T16:17:07.758Z'
 title: About Malane
 publisher: {}
 description: >-
-  Malane Shani, International Life/Relationship Coach, Motivational Speaker CEO
-  & Founder of Malane Shani Global Empowerment
+  Malane Shani, International Life/Relationship Coach, Motivational SpeakerCEO &
+  Founder of Malane Shani Global Empowerment
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: about-malane/index.html
 _type: MediaObject
 
 ---
